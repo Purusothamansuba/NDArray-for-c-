@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/purushothaman/Documents/projects/c++/numpy/output/main'
+relocations:     []
+...
